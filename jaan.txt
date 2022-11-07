@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image: url('https://media.istockphoto.com/photos/in-the-hands-of-trees-growing-seedlings-bokeh-green-background-female-picture-id1181366400?k=20&m=1181366400&s=612x612&w=0&h=p-iaAHKhxsF6Wqrs7QjbwjOYAFBrJYhxlLLXEX1wsGs=');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+</head>
+
+<body>
+
+
+<h1 style="font-size:20px;color:white;text-align:right;">20NN1A0450/h1>
+<h1 style="font-size:35px;color:white;text-align:center;">ABOUT ENVIRONMENT</h1>
+<p style="color:white;">
+<u><b>DEFINITION:</b></u> The surroundings or conditions in which a person, animal, or plant lives or operates.The natural world, as a whole or in a particular geographical area, especially as affected by human activity.
+</p>
+<p style="color:white;">
+The natural environment or natural world encompasses all living and non-living things occurring naturally, meaning in this case not artificial. The term is most often applied to the Earth or some parts of Earth. This environment encompasses the interaction of all living species, climate, weather and natural resources that affect human survival and economic activity.[1] The concept of the natural environment can be distinguished as components:
+</p>
+<ul style="color:white;">
+<li>Complete ecological units that function as natural systems without massive civilized human intervention, including all vegetation, microorganisms, soil, rocks, atmosphere, and natural phenomena that occur within their boundaries and their nature.</li>
+<li>Universal natural resources and physical phenomena that lack clear-cut boundaries, such as air, water, and climate, as well as energy, radiation, electric charge, and magnetism, not originating from civilized human actions.</li>
+</ul>
+
+<h2 style="color:white;"><u><b>Advantages:</b></u></h2>
+<ol style="color:white;">
+<li> Improved water quality and air quality.</li>
+<li> Increases in biodiversity and habitat protection.</li>
+<li>Reductions in greenhouse gases (GHG).</li>
+</ol>
+<img src="https://img.freepik.com/premium-photo/reduce-co2-emission-concept-sustainable-development-business-based-renewable-energy_117255-2156.jpg" alt="Reduction of green house gases" width="300" height="150">
+<h2 style="color:white;"><u><b>Disdvantages:</b></u></h2>
+<ol style="color:white;">
+<li>Pollution(Climate change).</li>
+<li>Global warming.</li>
+<li>Ocean acidification.</li>
+</ol>
+<img src="https://cdn.givingcompass.org/wp-content/uploads/2021/03/15114410/shutterstock_285980522.jpg" alt="climate change" width="300" height="150">
+<h2 style="color:white;">A Great Oppourtunity to Learn</h2>
+<style>
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+<a href="https://www.talentio.in/" target="_blank">Click Here to visit</a>
+
+
+</body>
+
+</html>
